@@ -8,7 +8,9 @@ Those indicators show if you got the max score of before-cut-angle, after-cut-an
 NOT WORK WITH "HitScoreVisualizer" mod. You need to uninstall it if you use my mod.
 
 ## Download
-https://youtu.be/PmUJCieFbdg
+[![](https://img.youtube.com/vi/PmUJCieFbdg/0.jpg)](https://youtu.be/PmUJCieFbdg)  
+https://youtu.be/PmUJCieFbdg  
+Make sure to read the video description section. The download link is also there.
 
 ## Dependencies
 BeatSaberMarkupLanguage  
