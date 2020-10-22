@@ -1,0 +1,23 @@
+﻿<settings-container>
+  <horizontal horizontal-fit="PreferredSize">
+    <bool-setting value = "color" text="Color" hover-hint="[Recommended] Color the score."></bool-setting>
+  </horizontal>
+  <horizontal horizontal-fit="PreferredSize">
+    <bool-setting value = "forward" text="Forward" hover-hint="[Recommended] Make the scores jump forward."></bool-setting>
+  </horizontal>
+  <horizontal horizontal-fit="PreferredSize">
+    <bool-setting value = "pro" text="Pro" hover-hint="Enable the indicaters to show if you got the max score of before-cut-angle, after-cut-angle, and center-cut. No bounce."></bool-setting>
+  </horizontal>
+  <horizontal horizontal-fit="PreferredSize">
+    <bool-setting value = "italic" text="Italic" hover-hint="Italic style applied to the score."></bool-setting>
+  </horizontal>
+  <horizontal horizontal-fit="PreferredSize">
+    <slider-setting value = "scale" text="Scale" min="0.2" max="1.0" increment="0.1" apply-on-change="true" hover-hint="The scale of the scores."></slider-setting>
+  </horizontal>
+  <horizontal horizontal-fit="PreferredSize">
+    <bool-setting value = "noScoreText" text="No Score Text" hover-hint="Hide all flying scores. For streamers or making video."></bool-setting>
+  </horizontal>
+  <horizontal horizontal-fit="PreferredSize">
+    <bool-setting value = "noMissText" text="No Miss Text" hover-hint="Hide flying miss and x texts. For streamers or making video."></bool-setting>
+  </horizontal>
+</settings-container>
