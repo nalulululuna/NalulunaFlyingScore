@@ -11,5 +11,8 @@
     "BeatSaberMarkupLanguage": "^1.4.0",
     "BS Utils": "^1.6.0"
   },
+  "conflictsWith": {
+    "HitScoreVisualizer": "*"
+  },
   "features": []
 }
